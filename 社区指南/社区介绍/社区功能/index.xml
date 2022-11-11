@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%85%AC%E5%85%B1%E8%AE%A8%E8%AE%BA%E5%8C%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%85%AC%E5%85%B1%E8%AE%A8%E8%AE%BA%E5%8C%BA/</guid>
+      <description>社区公共讨论区 社区公共讨论区面向社区所有人员，除非需要内部讨论的事情，其他所有事情都放在公共讨论区中进行讨论。 链接：https://jihulab.com/groups/gdou/-/issues</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%86%85%E9%83%A8%E8%AE%A8%E8%AE%BA%E5%8C%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%86%85%E9%83%A8%E8%AE%A8%E8%AE%BA%E5%8C%BA/</guid>
+      <description>社区内部讨论区 社区内部讨论区面向所有社区成员，讨论的内容主要包括成员的提名和投票。 链接：https://jihulab.com/gdou/community-private</description>
+    </item>
+    
+  </channel>
+</rss>

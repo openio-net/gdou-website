@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests/</guid>
+      <description>Pull Requests Merge或者pull requests是在git管理应用程序中创建的，并要求指定人员合并两个分支。GitHub和Bitbucket等工具选择名称Pull Requests，因为第一个手动操作是拉取功能分支。GitLab和Gitorious等工具选择名称Merge，因为这是受让人请求的最终操作。我们可以将它们看为为合并请求。所以pull requests请求与上游仓库合并。
+当你对github上的fork仓库做出了修改，并希望上游仓库也采用你修改的后的内容，这时你可以发起Pull Requests与上游仓库进行合并。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests%E6%8F%8F%E8%BF%B0%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests%E6%8F%8F%E8%BF%B0%E8%A7%84%E8%8C%83/</guid>
+      <description> Pull Requests描述规范 提交的PR可以根据commit规范进行说明，如果不能以简单的方式编写PR标题（例[optional scope]: ），或者需要使用多个类型/范围，可以考虑PR是否包含过多不同范围的更改。如果是，考虑将这个大PR拆分为几个小PR。这样，可以更快地审查PRs。
+在描述中，需要包括：
+动机：为什么需要这种改变？解决什么问题？ 更改：此拉取请求更改内容的摘要，以帮助审阅者更好地理解更改。 如果拉取请求正在解决issue，在描述中提及，issue的编号：
+Fixes #1234 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CPullRequests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CPullRequests/</guid>
+      <description>如何进行Pull Requests 点击pull requests
+点击 new pull request
+点击create pull request
+即可提交PR</description>
+    </item>
+    
+  </channel>
+</rss>

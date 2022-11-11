@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/%E5%A6%82%E4%BD%95clone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/%E5%A6%82%E4%BD%95clone/</guid>
+      <description>如何clone 1、下载代码
+点击&amp;quot;Code&amp;quot;按钮
+2、远程克隆
+需要先下载git到本地，再在设置ssh密钥到github，后才可以进行远程克隆
+一、先查看项目的路径
+二、运行本地git，输入以下命令
+git clone git@github.com:luoluoyuyu/fastproto.git 查看本地仓库有克隆的项目则完成克隆</description>
+    </item>
+    
+  </channel>
+</rss>

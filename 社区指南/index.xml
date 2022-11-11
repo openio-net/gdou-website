@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社区指南 on Geekdocs</title>
+    <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 社区指南 on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E6%8C%87%E5%8D%97%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E6%8C%87%E5%8D%97%E4%BB%8B%E7%BB%8D/</guid>
+      <description>指南介绍 本指南是社区运作的核心指南，主要包括社区运营、项目管理等指导内容，推荐社区人员以及对社区感兴趣的同学阅读。 本指南在【community-guide仓库链接】中进行维护，如果有任何改进的建议，非常欢迎为这个仓库提交Issues或PRs。 这份指南不需要完全阅读，当阅读完“社区介绍”章节后，各位同学可根据自己的需要阅读后续的章节： ● 对于初入社区的新人，请阅读【社区入门指南】 ● 对于社区成员以及新人，请随时查阅【社区生活指南】 ● 对于项目开发和管理人员，请阅读【社区项目指南】 ● 对于社区运营人员，请阅读【社区运营指南】</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5%E6%8C%87%E5%8D%97/MeetUp%E6%B4%BB%E5%8A%A8%E4%B8%BE%E5%8A%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5%E6%8C%87%E5%8D%97/MeetUp%E6%B4%BB%E5%8A%A8%E4%B8%BE%E5%8A%9E/</guid>
+      <description>社区运营指南 社区运营工作主要为运营社区讨论区、举办各类meetup活动等等。 Meetup活动举办 Meetup活动是社区举办的一系列爱好者活动，主要包括一些讲座和讨论，社区的任何人，包括贡献者和社区成员，都可以参与到这个meetup中，分享你在社区贡献过程中的经验。 社区运营人员负责活动的举办，包括活动议题的收集和组织、活动场地安排、活动时间安排等等。 社区运营人员可以通过“社区活动议题模板” 在讨论区中 发起“活动议题”，并跟踪整个活动流程。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%91%E8%B5%B7%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%91%E8%B5%B7%E9%A1%B9%E7%9B%AE/</guid>
+      <description>社区项目指南 社区所贡献的项目包括：OpenIO孵化器项目、Apache基金会和社区项目组维护的项目等等。社区项目组链接为：https://jihulab.com/gdou/proj 如何发起项目？ 如果你有好的项目点子，想要在社区中发起项目并希望让更多的人参与其中，那么你可以在社区讨论区中发起一个关于你的项目的提案议题。任何人都可以发起项目，不管是贡献者还是社区成员。 当项目提案通过约束性投票后，就可以在社区项目组中维护这个项目。</description>
+    </item>
+    
+  </channel>
+</rss>

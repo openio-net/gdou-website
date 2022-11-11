@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

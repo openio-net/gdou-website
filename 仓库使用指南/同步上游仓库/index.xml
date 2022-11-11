@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Oct 2022 20:37:34 +0800</lastBuildDate><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同步上游仓库</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Thu, 13 Oct 2022 20:37:34 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</guid>
+      <description>同步上游仓库 如果仓库原作者修改了一些bug和增加了一些功能。源仓库更新了，那么拷贝的仓库并不会自动更新。但是如果我们在修改的项目的时候，突然源仓库更新了，出现项目的一些逻辑和之前不匹配了，就会出现问题。在实际开发过程中经常会遇到上这样一种场景，需要同步上游仓库的代码。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E6%9C%AC%E5%9C%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E6%9C%AC%E5%9C%B0/</guid>
+      <description>同步本地 将github上个人仓库同步上游仓库后。即可通过上一步的pull命令将最新的github仓库同步到本地仓库。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%A6%82%E4%BD%95%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%A6%82%E4%BD%95%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</guid>
+      <description> 如何同步上游仓库 </description>
+    </item>
+    
+  </channel>
+</rss>

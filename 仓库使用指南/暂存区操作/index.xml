@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Oct 2022 20:36:45 +0800</lastBuildDate><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暂存区操作</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Thu, 13 Oct 2022 20:36:45 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/</guid>
+      <description> 暂存区操作 当我们在工作区添加了文件或者目录上，gih的本地仓库无法得知工作区中哪些文件是需要添加到本地仓库的。而暂存区是告诉git有哪些文件需要添加到本地仓库的。
+以下是操作暂存区的命令
+命令 说明 git add 添加文件到暂存区 git status 查看仓库当前的状态，显示有变更的文件。 git diff 比较文件的不同，即暂存区和工作区的差异。 git commit 提交暂存区到本地仓库。 git reset 回退版本。 git rm 将文件从暂存区和工作区中删除。 git mv 移动或重命名工作区文件。 </description>
+    </item>
+    
+  </channel>
+</rss>

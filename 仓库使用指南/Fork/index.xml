@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Oct 2022 20:36:16 +0800</lastBuildDate><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何fork</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E5%A6%82%E4%BD%95fork/</link>
+      <pubDate>Wed, 19 Oct 2022 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E5%A6%82%E4%BD%95fork/</guid>
+      <description>如何fork 打开你想要fork的仓库主页，点击fork 2、点击后添加你想要添加的信息后点击create fork即可frok仓库
+完成上述两步后即可将仓库fork到个人仓库</description>
+    </item>
+    
+    <item>
+      <title>什么是fork</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E4%BB%80%E4%B9%88%E6%98%AFfork/</link>
+      <pubDate>Thu, 13 Oct 2022 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E4%BB%80%E4%B9%88%E6%98%AFfork/</guid>
+      <description>什么是fork GitHub中Fork是服务端的代码仓库克隆（即新克隆出来的代码仓库在远程服务端），包含了原来的仓库（即upstreamrepository，上游仓库）所有内容，如分支、Tag、提交。github上面每个项目都有一个fork按钮。fork含义是分支。点击fork按钮，可以复制一份项目到你的仓库列表当中。
+所以，github的fork是复制、打分支仓库的意思。
+例如要Fork一个人的代码仓库，fork操作会复制一份目标仓库（包括文件，提交历史，issues，和其余一些东西），复制后的仓库在你自己的GitHub帐号下，这个操作是在github服务器上完成的，和本地计算机的仓库没有关系。
+在本地上操作之前，我们需要在github上克隆参与项目的个人仓库，以便后续对项目更好的管理。</description>
+    </item>
+    
+  </channel>
+</rss>

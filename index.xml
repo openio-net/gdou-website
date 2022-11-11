@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Oct 2022 20:36:16 +0800</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何fork</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E5%A6%82%E4%BD%95fork/</link>
+      <pubDate>Wed, 19 Oct 2022 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E5%A6%82%E4%BD%95fork/</guid>
+      <description>如何fork 打开你想要fork的仓库主页，点击fork 2、点击后添加你想要添加的信息后点击create fork即可frok仓库
+完成上述两步后即可将仓库fork到个人仓库</description>
+    </item>
+    
+    <item>
+      <title>Git常用命令</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Thu, 13 Oct 2022 20:38:27 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>git clone、git push、git add 、git commit、git checkout、git pull
+说明：
+workspace：工作区 staging area：暂存区/缓存区 local repository：版本库或本地仓库 remote repository：远程仓库 远程仓库我们使用的是github作为我们远程仓库的管理工具，上面的工作流程主要是描述本地git如何操作。下面我们会将github和git的操作流程告诉大家。</description>
+    </item>
+    
+    <item>
+      <title>同步上游仓库</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Thu, 13 Oct 2022 20:37:34 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</guid>
+      <description>同步上游仓库 如果仓库原作者修改了一些bug和增加了一些功能。源仓库更新了，那么拷贝的仓库并不会自动更新。但是如果我们在修改的项目的时候，突然源仓库更新了，出现项目的一些逻辑和之前不匹配了，就会出现问题。在实际开发过程中经常会遇到上这样一种场景，需要同步上游仓库的代码。</description>
+    </item>
+    
+    <item>
+      <title>暂存区操作</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Thu, 13 Oct 2022 20:36:45 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/</guid>
+      <description> 暂存区操作 当我们在工作区添加了文件或者目录上，gih的本地仓库无法得知工作区中哪些文件是需要添加到本地仓库的。而暂存区是告诉git有哪些文件需要添加到本地仓库的。
+以下是操作暂存区的命令
+命令 说明 git add 添加文件到暂存区 git status 查看仓库当前的状态，显示有变更的文件。 git diff 比较文件的不同，即暂存区和工作区的差异。 git commit 提交暂存区到本地仓库。 git reset 回退版本。 git rm 将文件从暂存区和工作区中删除。 git mv 移动或重命名工作区文件。 </description>
+    </item>
+    
+    <item>
+      <title>什么是fork</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E4%BB%80%E4%B9%88%E6%98%AFfork/</link>
+      <pubDate>Thu, 13 Oct 2022 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Fork/%E4%BB%80%E4%B9%88%E6%98%AFfork/</guid>
+      <description>什么是fork GitHub中Fork是服务端的代码仓库克隆（即新克隆出来的代码仓库在远程服务端），包含了原来的仓库（即upstreamrepository，上游仓库）所有内容，如分支、Tag、提交。github上面每个项目都有一个fork按钮。fork含义是分支。点击fork按钮，可以复制一份项目到你的仓库列表当中。
+所以，github的fork是复制、打分支仓库的意思。
+例如要Fork一个人的代码仓库，fork操作会复制一份目标仓库（包括文件，提交历史，issues，和其余一些东西），复制后的仓库在你自己的GitHub帐号下，这个操作是在github服务器上完成的，和本地计算机的仓库没有关系。
+在本地上操作之前，我们需要在github上克隆参与项目的个人仓库，以便后续对项目更好的管理。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/%E5%A6%82%E4%BD%95clone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Clone/%E5%A6%82%E4%BD%95clone/</guid>
+      <description>如何clone 1、下载代码
+点击&amp;quot;Code&amp;quot;按钮
+2、远程克隆
+需要先下载git到本地，再在设置ssh密钥到github，后才可以进行远程克隆
+一、先查看项目的路径
+二、运行本地git，输入以下命令
+git clone git@github.com:luoluoyuyu/fastproto.git 查看本地仓库有克隆的项目则完成克隆</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Github%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Github%E6%8C%87%E5%8D%97/</guid>
+      <description>我们使用github作为项目问题追踪和项目管理的工具，以促进在不同地区的朋友参与到项目中去，因此我们需要一份的指南，指导第一次尝试开源的小伙伴如何高效的利用github参与到项目中。这份指南将会指导你如何将存储库fork到个人账号，如何克隆项目到本地仓库、commit项目到本地仓库，将本地仓库push到GitHub服务器上。提交RP的注意事项，如何同步主项目库到本地文件中。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests/</guid>
+      <description>Pull Requests Merge或者pull requests是在git管理应用程序中创建的，并要求指定人员合并两个分支。GitHub和Bitbucket等工具选择名称Pull Requests，因为第一个手动操作是拉取功能分支。GitLab和Gitorious等工具选择名称Merge，因为这是受让人请求的最终操作。我们可以将它们看为为合并请求。所以pull requests请求与上游仓库合并。
+当你对github上的fork仓库做出了修改，并希望上游仓库也采用你修改的后的内容，这时你可以发起Pull Requests与上游仓库进行合并。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests%E6%8F%8F%E8%BF%B0%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/PullRequests%E6%8F%8F%E8%BF%B0%E8%A7%84%E8%8C%83/</guid>
+      <description> Pull Requests描述规范 提交的PR可以根据commit规范进行说明，如果不能以简单的方式编写PR标题（例[optional scope]: ），或者需要使用多个类型/范围，可以考虑PR是否包含过多不同范围的更改。如果是，考虑将这个大PR拆分为几个小PR。这样，可以更快地审查PRs。
+在描述中，需要包括：
+动机：为什么需要这种改变？解决什么问题？ 更改：此拉取请求更改内容的摘要，以帮助审阅者更好地理解更改。 如果拉取请求正在解决issue，在描述中提及，issue的编号：
+Fixes #1234 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CPullRequests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/PullRequests/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CPullRequests/</guid>
+      <description>如何进行Pull Requests 点击pull requests
+点击 new pull request
+点击create pull request
+即可提交PR</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E6%9C%AC%E5%9C%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%90%8C%E6%AD%A5%E6%9C%AC%E5%9C%B0/</guid>
+      <description>同步本地 将github上个人仓库同步上游仓库后。即可通过上一步的pull命令将最新的github仓库同步到本地仓库。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%A6%82%E4%BD%95%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/%E5%A6%82%E4%BD%95%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93/</guid>
+      <description> 如何同步上游仓库 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Body/</guid>
+      <description> Body Body 是 commit 的更详细描述，是可选的。可以说明修改原因，也可列出改动点。 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/description/</guid>
+      <description>description subject是commit目的的简短描述，不超过50个字符。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Footer/</guid>
+      <description>Footer Footer 是可选的，有不兼容改动时可在 Footer 中列出不兼容的内容及其替代。或是关闭的 Issue 列表。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/scope%E5%8F%AF%E9%80%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/scope%E5%8F%AF%E9%80%89/</guid>
+      <description>scope（可选） scope用于说明 commit 影响的范围，比如数据层、控制层、视图层等等，视项目不同而不同。不止一个可用*代替</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/type%E6%A0%87%E8%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/type%E6%A0%87%E8%AF%86/</guid>
+      <description> type标识 feat：新功能（feature）。 fix/to：修复bug，可以是QA发现的 BUG，也可以是研发自己发现的BUG。 fix：产生diff并自动修复此问题。适合于一次提交直接修复问题 to：只产生diff不自动修复此问题。适合于多次提交。最终修复问题提交时使用 fixdocs：文档（documentation）。 style：格式（不影响代码运行的变动）。 refactor：重构（即不是新增功能，也不是修改bug的代码变动）。 perf：优化相关，比如提升性能、体验。 test：增加测试。 chore：构建过程或辅助工具的变动。 revert：回滚到上一个版本。 merge：代码合并。 sync：同步主线或分支的Bug。 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C/Pull/%E5%A6%82%E4%BD%95pull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C/Pull/%E5%A6%82%E4%BD%95pull/</guid>
+      <description> Pull pull是本地有repository时，将远程repository里新的commit数据(如有的话)下载过来，并且与本地代码merge。git pull 其实就是 git fetch 和 git merge FETCH_HEAD 的简写
+如何pull git pull &amp;lt;远程主机名&amp;gt; &amp;lt;远程分支名&amp;gt;:&amp;lt;本地分支名&amp;gt;
+git pull luoluoyuyu luoyy:main </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C/Push/%E5%A6%82%E4%BD%95push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C/Push/%E5%A6%82%E4%BD%95push/</guid>
+      <description> push push是告诉github仓库你本地仓库对项目做出了变更，需要用到与github上的项目
+远程仓库进行合并
+如何push 点击push，进行推送main
+git push &amp;lt;远程主机名&amp;gt; &amp;lt;本地分支名&amp;gt;:&amp;lt;远程分支名&amp;gt;
+git push luoluoyuyu main:luoyy </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E6%8C%87%E5%8D%97%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E6%8C%87%E5%8D%97%E4%BB%8B%E7%BB%8D/</guid>
+      <description>指南介绍 本指南是社区运作的核心指南，主要包括社区运营、项目管理等指导内容，推荐社区人员以及对社区感兴趣的同学阅读。 本指南在【community-guide仓库链接】中进行维护，如果有任何改进的建议，非常欢迎为这个仓库提交Issues或PRs。 这份指南不需要完全阅读，当阅读完“社区介绍”章节后，各位同学可根据自己的需要阅读后续的章节： ● 对于初入社区的新人，请阅读【社区入门指南】 ● 对于社区成员以及新人，请随时查阅【社区生活指南】 ● 对于项目开发和管理人员，请阅读【社区项目指南】 ● 对于社区运营人员，请阅读【社区运营指南】</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/</guid>
+      <description>社区介绍 海大开源社区是由领沃团队发起并在广东海洋大学建立的开源社区，旨在为开源爱好者提供一个面向技术与行业规范的学习交流平台。同学们可以在这个社区中结实志同道合的爱好者、参与各类有趣的开源项目的贡献、和许多在业界一线的工作者进行深度交流等等。 社区会帮助对开源感兴趣的同学一步一步踏入到开源的世界中，由社区人员以及业界工作者进行一对一指导，帮助同学们循序渐进地进行开源贡献，融入到开源文化中。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%85%AC%E5%85%B1%E8%AE%A8%E8%AE%BA%E5%8C%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%85%AC%E5%85%B1%E8%AE%A8%E8%AE%BA%E5%8C%BA/</guid>
+      <description>社区公共讨论区 社区公共讨论区面向社区所有人员，除非需要内部讨论的事情，其他所有事情都放在公共讨论区中进行讨论。 链接：https://jihulab.com/groups/gdou/-/issues</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%86%85%E9%83%A8%E8%AE%A8%E8%AE%BA%E5%8C%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E5%8A%9F%E8%83%BD/%E7%A4%BE%E5%8C%BA%E5%86%85%E9%83%A8%E8%AE%A8%E8%AE%BA%E5%8C%BA/</guid>
+      <description>社区内部讨论区 社区内部讨论区面向所有社区成员，讨论的内容主要包括成员的提名和投票。 链接：https://jihulab.com/gdou/community-private</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E6%96%87%E5%8C%96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E6%96%87%E5%8C%96/</guid>
+      <description>社区文化 社区文化是社区运营的基石，我们非常希望参与社区的同学都能深刻理解这些文化，我们也会通过各类社区活动去介绍和宣传这些文化。 我们推崇的文化包括： ● 合作互助：希望社区的同学们都可以积极地互相合作，积极帮助他人解决问题，积极参与讨论。关于如何高效参与讨论，可参考【讨论指南】 ● 透明公开：社区也是一个开源项目，不仅我们的源代码要公开，关于社区的各类信息也都要公开，让更多的人了解和给出反馈，包括各类决策和讨论、或社区的运作方式等等。 ● 异步沟通：尽量采用讨论区议题的方式讨论事情，线下讨论的结果也都需要同步到讨论区。 ● 友好平等：社区内的各类讨论都需要友好平等地进行，不产生偏见等等。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/</guid>
+      <description>社区成员 社区成员指的是熟悉社区运作方式、能够指导其他贡献者参与贡献、具有较多贡献的人，对社区具有一定的管理权限，负责社区的运营工作。社区成员可提名有能力参与社区运营的优秀贡献者成为社区成员。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E5%91%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E5%91%98/</guid>
+      <description>社区管理委员会成员 社区管理委员会成员指的是负责社区主要运营工作、主要决策的社区成员，具有提案的约束性投票的权限。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E8%B4%A1%E7%8C%AE%E8%80%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%A7%92%E8%89%B2/%E8%B4%A1%E7%8C%AE%E8%80%85/</guid>
+      <description>社区角色 本部分介绍社区中的各个角色以及各个角色所担任的职能，这些角色常常有许多重叠的部分。 关于目前社区中所有社区成员的角色，可查看：【社区成员表】 贡献者 贡献者指的是以任何形式参与社区构建和运营的人，广大贡献者们是社区的重要组成部分。这些贡献包括：为社区运营出谋划策、主导社区运营、参与代码贡献、参与文档贡献等等。在社区中的各类讨论、各类决策以及提交的各类代码和各类文档等，都是属于对社区的贡献，我们欢迎各种形式的贡献。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%B4%A1%E7%8C%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%B4%A1%E7%8C%AE/</guid>
+      <description>社区贡献 社区的主要职责是帮助社区成员以及对社区感兴趣的同学更好地参与开源贡献，我们希望社区的同学们都能够参与到各类开源项目的贡献中，其中包括OpenIO孵化器中的项目、Apache基金会的项目等等，同时，社区也会针对性地孵化一些项目，以供同学们入手开源贡献。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%82%E5%8A%A0%E7%A4%BE%E5%8C%BA%E8%AE%A8%E8%AE%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%82%E5%8A%A0%E7%A4%BE%E5%8C%BA%E8%AE%A8%E8%AE%BA/</guid>
+      <description>社区入门指南 如果你是刚接触社区的新人，想要正式开始参与社区的旅程，那么欢迎阅读这部分指南！这里将详细介绍所有社区入门的步骤、带你一步一步开启社区之旅。如果在这个过程中有任何问题，欢迎咨询社区人员。 社区最重要的是人，有人的地方必定会有讨论，所以参与社区第一步，也是最重要的一步，就是学会积极地参与社区的讨论中。你在参与社区的过程中遇到的任何问题、想到的任何点子，都可以在社区中发起讨论。 如何参与社区讨论？ 社区讨论是参与社区工作中最重要的部分，社区提供了一个讨论区供大家讨论：https://jihulab.com/gdou/discussion/-/issues 。 社区讨论需要遵守的原则：友好讨论，人人平等，不能带有任何偏见，不能带有不文明用语，严格遵守社区管理规范。 打开讨论区，你可以看到目前正在社区发生的讨论内容，浏览其他人讨论的议题，并试着发表自己的讨论和看法。 如果你想要发起讨论，可以点击“新建议题”，并在弹出的页面中按以下步骤进行：
+填写你要讨论的标题 选择议题标记。目前分为四个标记，这些标记所代表的类别如下： a. 提问：这是一个寻求帮助的提问议题 b. 讨论：你想到了什么好点子，可以通过这类议题一起和社区人员讨论初步想法 c. 提案：你有了一个比较大的想法，可以作为提案议题来发起讨论，提案议题都需要完成约束性投票后才能进行。【参考约束性投票】 d. 投票：这是对于提案的投票议题，在这里进行约束性投票。 点击“创建议题” 创建完成后，你就可以在讨论区中看到你发起的议题了。 通过发起讨论和参与讨论，你可以更快地了解社区、更清楚地知道社区的工作，这是入门社区贡献的有效途径。 社区推崇透明公开，请尽可能地将讨论都放在公开讨论区中进行，这样能够更加及时地得到正确的反馈，提升沟通效率。 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98%E9%9C%80%E8%A6%81%E5%85%B7%E5%A4%87%E7%9A%84%E8%83%BD%E5%8A%9B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98%E9%9C%80%E8%A6%81%E5%85%B7%E5%A4%87%E7%9A%84%E8%83%BD%E5%8A%9B/</guid>
+      <description>如何成为社区成员？ 当你在不断参与社区贡献时，你会发现自己越来越得心应手，并期望自己能够更加深入地融入社区，以及带动更多的同学融入社区中，扩大自己的影响力，这时候你可以试着成为一名社区成员。 社区不要求只有进行足够多的代码贡献才能成为社区成员，社区欢迎各种形式的贡献，并且希望能够广泛吸纳来自各个领域的人才，包括：社区运营、项目管理、文档维护和代码开发等等。 社区成员的核心工作是帮助更多的同学参与社区，并且对一些项目和社区讨论区具有一些管理权限。包括调动社区参与者的积极性，协助不同领域、不同能力的参与者的贡献等。成为社区成员后，将对你在社区中的各项工作提供更多的便利。 通过社区成员的提名后，并在社区管理委员会中通过约束性投票，则可正式成为社区成员。 社区成员需要具备的能力 以下是成为社区成员需要具备的能力，社区贡献者们可以朝着这些方向发展： ● 熟悉社区运作方式，熟悉本指南的内容 ● 乐于帮助他人，积极宣传社区，积极引导新人参与社区 ● 积极参与社区贡献</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E4%BC%99%E4%BC%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E4%BC%99%E4%BC%B4/</guid>
+      <description>寻找你的伙伴 参与社区离不开伙伴的支持，社区推崇互帮互助的价值理念。你可以寻找社区人员并向他们咨询，他们可以帮你推荐伙伴或者成为你的伙伴，带领你走入社区。 当寻找到你的伙伴后，如果你觉得自己对于社区无从入手，你可以将遇到的任何疑惑、想要了解的有关社区的任何内容向Ta咨询，也欢迎和你的伙伴约一个一对一的会议，这样会让你们的沟通更加顺畅。你的伙伴能够为你提供你所需要的学习资料、带你认识社区的工作方式、带你学会社区的贡献方法，帮你找到合适你的贡献任务等等。 在这个过程中积极地和你的伙伴进行沟通能为你带来巨大的帮助。你需要积极推进你的入门旅程，积极突破入门过程中遇到的各类阻碍。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%AF%BB%E6%89%BE%E5%85%A5%E6%89%8B%E7%9A%84%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%AF%BB%E6%89%BE%E5%85%A5%E6%89%8B%E7%9A%84%E9%A1%B9%E7%9B%AE/</guid>
+      <description>寻找入手的任务 当你找到你的伙伴后，你可以向Ta寻求帮助，帮你找到适合你入手的任务。你也可以自己在社区项目中的各类议题中找到适合入手的任务。 社区并不只是程序员的狂欢，社区需要吸纳来自多方面的人才，每个人都有不同的贡献方式，并且所有的贡献方式都是重要的，如以下就是社区需要的一些主要人才： ● 软件工程师：喜欢编写代码的人 ● 测试工程师：喜欢编写和维护各类测试以保证项目代码健壮性的人 ● 文档工程师：喜欢为功能编写文档并更好地帮助他们理解项目的人 ● 产品设计师：喜欢从用户的角度设计整个产品的人 ● 社区运营人员：喜欢运营整个社区，引导新人入门、答疑解惑、运营活动的人 当然社区需要的人才不止于此，任何对社区有帮助的人都是欢迎的。你可以根据你喜欢的职位角色去挑选喜欢的任务：比如你喜欢写代码，你可以选择一些特性开发或者BUG修复的任务；你喜欢写文档，那么一些文档编写和维护的任务就适合你。 同时，你也不需要局限于某一种职位角色中，比如你可以选择同时担任软件开发人员和社区运营人员。 当你有任何想法时，可以在对应的项目组或者社区讨论区中发起你的想法。并且确保你的想法在社区或项目组中得到了充分的讨论，再进行具体实现，避免闭门造车造成大量的无用工作。 当你要进行社区贡献前，可以根据你的需要阅读【社区生活指南】，这能够帮你更快地融入社区。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E8%81%8C%E8%B4%A3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E8%81%8C%E8%B4%A3/</guid>
+      <description>伙伴职责
+请积极地和新人约一对一的会议，介绍你自己和社区，氛围尽量放松，让你们的沟通更加顺畅，让新人更容易了解社区。 实时跟进新人进度，积极发现新人遇到的问题，如果遇到问题后，积极帮助新人解决问题和障碍。 提供有用的资料和指南，你需要告诉新人从阅读本指南开始步入社区，并为Ta提供尽可能多的资料，包括各类学习资料和项目文档等。 让新人积极参加社区讨论，积极使用社区中的各项功能。 如果你无法继续指导新人，请务必邀请另一位伙伴进行指导工作。 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E4%BC%99%E4%BC%B4%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4/</guid>
+      <description>伙伴指南 社区伙伴是新人入门社区的重要力量，社区伙伴会帮助新人融入社区，给新人提供一对一的帮助。如果你乐于助人，想要将自己在社区贡献中的经验更好地分享给新人，你可以成为社区伙伴。 如何成为伙伴 你可以直接在社区中积极地寻找社区新人，让Ta认可你，自荐成为Ta的伙伴。 当你成为伙伴后，请在这个页面中按照其中的提示填写相关的信息：https://jihulab.com/gdou/community-private/-/wikis/%E7%A4%BE%E5%8C%BA%E4%BC%99%E4%BC%B4 并实时跟进新人情况和进度。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%8F%90%E5%90%8D%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E6%8F%90%E5%90%8D%E7%A4%BE%E5%8C%BA%E6%88%90%E5%91%98/</guid>
+      <description>如何提名社区成员 当你发现一位优秀的社区贡献者时，你可以考虑提名Ta成为社区成员。但在此之前，需要考虑Ta是否具备相应的能力，参考【社区成员需要具备的能力】。社区成员提名考量的核心是对Ta已有工作的评估，而不是对Ta未来的期待，我们应该看Ta已经在社区中做了什么事情，以此进行评估。同时，在贡献者贡献过程中所暴露出的责任心和足够的能力，也应该作为重要考量。 如果你觉得Ta合适，那么可以在内部讨论区中： https://jihulab.com/gdou/community-private 提交一份“提名议题”，通过约束性投票后，则代表提名成功。 社区成员可提名社区贡献者为新的社区成员，并需要通过约束性投票；社区管理委员会成员可提名社区成员为新的社区管理委员会成员，并需要通过约束性投票。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E6%8A%95%E7%A5%A8%E6%8C%87%E5%8D%97/%E7%BA%A6%E6%9D%9F%E6%80%A7%E6%8A%95%E7%A5%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E6%8A%95%E7%A5%A8%E6%8C%87%E5%8D%97/%E7%BA%A6%E6%9D%9F%E6%80%A7%E6%8A%95%E7%A5%A8/</guid>
+      <description>投票指南 当你提出提案时，则需要经过投票通过后才能进行执行。如果需要得到投票，那么你需要新建一个“投票议题”，然后描述这个提案所达成共识的解决方案，社区的人员会在这个议题下进行投票。不管是贡献者还是社区成员等，任何人都可以发起投票和参与投票。 表达投票的方式如下： ● +1: 赞成票 ● 0：弃权票 ● -1：反对票 对非赞成票，需要提供理由。 约束性投票 约束性投票指的是来自社区管理委员会成员的投票，所有提案都需要通过约束性投票。通过约束性投票的条件： ● 至少有一个约束性赞成票，也就是至少有一位社区管理委员会成员投赞成票； ● 没有任何约束性反对票。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E5%85%AC%E5%BC%80%E8%AE%A8%E8%AE%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E5%85%AC%E5%BC%80%E8%AE%A8%E8%AE%BA/</guid>
+      <description>社区生活指南 本章节适合社区的任何成员，包括贡献者和社区成员等等，描述了社区的主要工作流程和指南，可以按需随时查阅。 讨论指南 参与社区讨论是社区贡献的重要部分，社区是由人组成的，每个人都有各自的想法，每个想法都不一定兼容，所以我们需要知道如何在这些讨论中达成共识，这样才能让这些讨论更有效率。本部分内容介绍如何高效地在社区中进行讨论。 公开讨论 社区推崇透明公开和异步沟通，除非必要情况需要私聊，请尽量将有关社区的讨论都放在社区讨论区或各个项目中进行。这样能让更多的人知道这些信息，并且能让这些讨论得到更多的反馈。不管是各类社区决策、还是答疑解惑，都欢迎在社区讨论区中进行讨论。 也许你和其他成员私下讨论了许多关于社区的重要事情，也请最终将讨论的内容和结果同步到社区讨论区中。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E8%A1%A8%E8%BE%BE%E6%94%AF%E6%8C%81%E6%88%96%E5%8F%8D%E5%AF%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E8%A1%A8%E8%BE%BE%E6%94%AF%E6%8C%81%E6%88%96%E5%8F%8D%E5%AF%B9/</guid>
+      <description>如何表达支持或反对 在社区讨论区中很多人会发出自己的想法、自己的提案，这时候就需要你来对这个议题表达支持还是反对，以下是社区中表达支持或反对的常用语： ● +1：我赞成 ● +0：我同意，但有人反对我也接受 ● -0：我不同意，但有人支持我也接受 ● -1：我反对 这些只是大家约定俗成的常用语，不是强制规范，但是推荐使用这些常用语，这样能够更加准确精炼地表达你的想法。除此之外，有些人也会使用&amp;quot;+10000&amp;quot;来表达自己赞不绝口，也有人会使用小数来表达自己部分赞成，如“+0.5”。 当你表达反对的时候，请说明自己反对的理由，否则作者并不明白你想表达什么。 当你发现议题有问题时，请尽情和及时地表达你的反对；同理，当你收到反对时，也不要气馁。 许多议题都会有不同的见解，有许多议题最终都不能寻求到令所有人满意的方案，我们讨论的核心就是把这个议题的所有优势和劣势都表达出来，并判断哪些优势是必要的、哪些劣势是致命的，作为给出议题最终方案的依据。不要期望所有议题都能有完美的解决方案，也不用期望你的议题要去解决所有反对的问题，除非这是个致命的反对。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E6%83%B0%E6%80%A7%E5%85%B1%E8%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E6%83%B0%E6%80%A7%E5%85%B1%E8%AF%86/</guid>
+      <description>惰性共识 惰性共识指的是讨论议题因等待太长时间没有收到任何反馈，那么你可以认为这个讨论议题是达成了共识的。社区推崇“默认就是许可，没有反对就是支持。”，但是这个前提是一定要让你的议题有充足的时间给予其他人员讨论，比如72小时时间。当你发表在社区的议题在72小时时间内没有得到太多的回复，那么这时达成了惰性共识，你可以在议题下声称已达成惰性共识，并开始下一步工作。不过对于提案议题，则必需经过投票流程通过才能执行。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E5%92%8C%E6%8A%95%E7%A5%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E6%8C%87%E5%8D%97/%E8%AE%A8%E8%AE%BA%E5%92%8C%E6%8A%95%E7%A5%A8/</guid>
+      <description>讨论和投票 我们在社区讨论区中将“讨论”和“投票”分开进行，也就是对于同一个提案，需要将其分为讨论议题和投票议题。 讨论议题的目的是达成共识，投票议题的目的是确定是否执行。首先需要在一个议题中进行讨论，并试图达成共识，形成最终候选解决方案，然后再开一个议题进行投票，并描述最终方案，如果方案通过了约束性投票，那么这个提案就通过了；如果没有通过约束性投票，则需要重新进行讨论，直到出现另一个改进的候选解决方案，并新建投票议题重复投票流程。 投票的方式请参考【投票指南】</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</guid>
+      <description>贡献指南 请参考【社区贡献指南】</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5%E6%8C%87%E5%8D%97/MeetUp%E6%B4%BB%E5%8A%A8%E4%B8%BE%E5%8A%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5%E6%8C%87%E5%8D%97/MeetUp%E6%B4%BB%E5%8A%A8%E4%B8%BE%E5%8A%9E/</guid>
+      <description>社区运营指南 社区运营工作主要为运营社区讨论区、举办各类meetup活动等等。 Meetup活动举办 Meetup活动是社区举办的一系列爱好者活动，主要包括一些讲座和讨论，社区的任何人，包括贡献者和社区成员，都可以参与到这个meetup中，分享你在社区贡献过程中的经验。 社区运营人员负责活动的举办，包括活动议题的收集和组织、活动场地安排、活动时间安排等等。 社区运营人员可以通过“社区活动议题模板” 在讨论区中 发起“活动议题”，并跟踪整个活动流程。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%91%E8%B5%B7%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E5%A6%82%E4%BD%95%E5%8F%91%E8%B5%B7%E9%A1%B9%E7%9B%AE/</guid>
+      <description>社区项目指南 社区所贡献的项目包括：OpenIO孵化器项目、Apache基金会和社区项目组维护的项目等等。社区项目组链接为：https://jihulab.com/gdou/proj 如何发起项目？ 如果你有好的项目点子，想要在社区中发起项目并希望让更多的人参与其中，那么你可以在社区讨论区中发起一个关于你的项目的提案议题。任何人都可以发起项目，不管是贡献者还是社区成员。 当项目提案通过约束性投票后，就可以在社区项目组中维护这个项目。</description>
+    </item>
+    
+  </channel>
+</rss>

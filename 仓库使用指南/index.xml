@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>仓库使用指南 on Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 仓库使用指南 on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Oct 2022 20:36:16 +0800</lastBuildDate><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git常用命令</title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Thu, 13 Oct 2022 20:38:27 +0800</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>git clone、git push、git add 、git commit、git checkout、git pull
+说明：
+workspace：工作区 staging area：暂存区/缓存区 local repository：版本库或本地仓库 remote repository：远程仓库 远程仓库我们使用的是github作为我们远程仓库的管理工具，上面的工作流程主要是描述本地git如何操作。下面我们会将github和git的操作流程告诉大家。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Github%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/Github%E6%8C%87%E5%8D%97/</guid>
+      <description>我们使用github作为项目问题追踪和项目管理的工具，以促进在不同地区的朋友参与到项目中去，因此我们需要一份的指南，指导第一次尝试开源的小伙伴如何高效的利用github参与到项目中。这份指南将会指导你如何将存储库fork到个人账号，如何克隆项目到本地仓库、commit项目到本地仓库，将本地仓库push到GitHub服务器上。提交RP的注意事项，如何同步主项目库到本地文件中。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/</guid>
+      <description>社区介绍 海大开源社区是由领沃团队发起并在广东海洋大学建立的开源社区，旨在为开源爱好者提供一个面向技术与行业规范的学习交流平台。同学们可以在这个社区中结实志同道合的爱好者、参与各类有趣的开源项目的贡献、和许多在业界一线的工作者进行深度交流等等。 社区会帮助对开源感兴趣的同学一步一步踏入到开源的世界中，由社区人员以及业界工作者进行一对一指导，帮助同学们循序渐进地进行开源贡献，融入到开源文化中。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E6%96%87%E5%8C%96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E6%96%87%E5%8C%96/</guid>
+      <description>社区文化 社区文化是社区运营的基石，我们非常希望参与社区的同学都能深刻理解这些文化，我们也会通过各类社区活动去介绍和宣传这些文化。 我们推崇的文化包括： ● 合作互助：希望社区的同学们都可以积极地互相合作，积极帮助他人解决问题，积极参与讨论。关于如何高效参与讨论，可参考【讨论指南】 ● 透明公开：社区也是一个开源项目，不仅我们的源代码要公开，关于社区的各类信息也都要公开，让更多的人了解和给出反馈，包括各类决策和讨论、或社区的运作方式等等。 ● 异步沟通：尽量采用讨论区议题的方式讨论事情，线下讨论的结果也都需要同步到讨论区。 ● 友好平等：社区内的各类讨论都需要友好平等地进行，不产生偏见等等。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%B4%A1%E7%8C%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97/%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E8%B4%A1%E7%8C%AE/</guid>
+      <description>社区贡献 社区的主要职责是帮助社区成员以及对社区感兴趣的同学更好地参与开源贡献，我们希望社区的同学们都能够参与到各类开源项目的贡献中，其中包括OpenIO孵化器中的项目、Apache基金会的项目等等，同时，社区也会针对性地孵化一些项目，以供同学们入手开源贡献。</description>
+    </item>
+    
+  </channel>
+</rss>

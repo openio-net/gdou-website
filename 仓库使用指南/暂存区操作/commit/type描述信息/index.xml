@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Body/</guid>
+      <description> Body Body 是 commit 的更详细描述，是可选的。可以说明修改原因，也可列出改动点。 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/description/</guid>
+      <description>description subject是commit目的的简短描述，不超过50个字符。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/Footer/</guid>
+      <description>Footer Footer 是可选的，有不兼容改动时可在 Footer 中列出不兼容的内容及其替代。或是关闭的 Issue 列表。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/scope%E5%8F%AF%E9%80%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/scope%E5%8F%AF%E9%80%89/</guid>
+      <description>scope（可选） scope用于说明 commit 影响的范围，比如数据层、控制层、视图层等等，视项目不同而不同。不止一个可用*代替</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/type%E6%A0%87%E8%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/%E4%BB%93%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%9A%82%E5%AD%98%E5%8C%BA%E6%93%8D%E4%BD%9C/commit/type%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF/type%E6%A0%87%E8%AF%86/</guid>
+      <description> type标识 feat：新功能（feature）。 fix/to：修复bug，可以是QA发现的 BUG，也可以是研发自己发现的BUG。 fix：产生diff并自动修复此问题。适合于一次提交直接修复问题 to：只产生diff不自动修复此问题。适合于多次提交。最终修复问题提交时使用 fixdocs：文档（documentation）。 style：格式（不影响代码运行的变动）。 refactor：重构（即不是新增功能，也不是修改bug的代码变动）。 perf：优化相关，比如提升性能、体验。 test：增加测试。 chore：构建过程或辅助工具的变动。 revert：回滚到上一个版本。 merge：代码合并。 sync：同步主线或分支的Bug。 </description>
+    </item>
+    
+  </channel>
+</rss>
